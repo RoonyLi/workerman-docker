@@ -1,5 +1,5 @@
 FROM io84/php:7.1-apache-alpine
-MAINTAINER Rushairer <rushairer@163.com>
+MAINTAINER RoonyLi <lizhaoedu@gmail.com>
 
 # add aliyun source
 RUN set -x \
